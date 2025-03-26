@@ -8,7 +8,7 @@
   - **Validation Loss**: 0.1130
 
 ![Segmentation Training Plot](images/U-Netperformance_1.png)
-![Segmentation Model Performace](images/U-net_result.png)
+![Segmentation Model Performace](images/U-Net_result.png)
 
 
 ### Classification:
