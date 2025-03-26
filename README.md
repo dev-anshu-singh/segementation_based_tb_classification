@@ -1,6 +1,6 @@
 ### Segmentation:
 - **Model**: U-Net based architecture
-- **Dataset**: [Shenzhen and Montgomery Dataset]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/](https://www.kaggle.com/code/devanshusingh007/lungs-segmentation-unet))
+- **Dataset**: [Shenzhen and Montgomery Dataset](https://www.kaggle.com/code/devanshusingh007/lungs-segmentation-unet)
 - **Model Performance**:
   - **Validation Accuracy**: 0.9809
   - **Validation Dice Coefficient**: 0.9627
@@ -8,7 +8,8 @@
   - **Validation Loss**: 0.1130
 
 ![Segmentation Training Plot](images/U-Netperformance_1.png)
-![Segmentation Training Plot](images/U-Netperformance_1.png)
+![Segmentation Model Performace](images/U-net_result.png)
+
 
 ### Classification:
 - **Base Model**: DenseNet169
