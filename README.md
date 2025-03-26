@@ -7,7 +7,7 @@
   - **Validation Jaccard Index**: 0.9281
   - **Validation Loss**: 0.1130
 
-![Segmentation Training Plot](images/U-Netperformance_1.png)
+![Segmentation Training Plot](images/U-Netperformance_2.png)
 ![Segmentation Model Performace](images/U-Net_result.png)
 
 
